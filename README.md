@@ -1,2 +1,1 @@
-# scholarship
-About scholarships
+Contains useful presentations delivered so far
